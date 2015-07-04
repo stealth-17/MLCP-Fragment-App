@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-2e646fdcc7555153254198eaf0ebb050188d24c1.jar" />
+    </item>
+    <item
+        jar="/home/stealth/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-857af9d213ead11de6bc95cccf8120cfd7f37c41.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-becbbc7eddec015d99b661808deac71abf5f68a8.jar" />
+    </item>
+    <item
+        jar="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-1b859626a1cf83d16f378286c8ead3221a08384e.jar" />
+    </item>
+    <item
+        jar="/home/stealth/.gradle/caches/modules-2/files-2.1/com.github.kevinsawicki/http-request/5.6/168305b7a983142b6311a005f0ad96d3b34d92d/http-request-5.6.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="0168305b7a983142b6311a005f0ad96d3b34d92d">
+        <dex dex="/home/stealth/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/http-request-5.6-9753897889b840fbaef2c26b22e7cacfbbbf85c0.jar" />
+    </item>
+
+</items>

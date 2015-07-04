@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_main_head">#303F9F</color>
+    <color name="bg_tab">#3F51B8</color>
+    <color name="bg_search">#7986CB</color>
+    <color name="pink_dark">#F50057</color>
+    <color name="pink_medium">#FF4081</color>
+    <color name="pink_light">#FF80AB</color>
+</resources>
